@@ -1,0 +1,2 @@
+difference_variable,multiplier,multiplier unit,annual change,output_variable_name,output_display_name,sum,natural multiplier units,display_notes,internal_notes
+gasrecovered_lsmm_biogass_anaerobic_digester_tonne,323.5294118,$/ton biogas,1,cb:lsmm:fuel_cost:waste_to_energy_value:X,Cost of Energy Recovery (incineration),1,11/mbtu biogas,,$11/Mbtu * 1Mbtu/1.05GJ * 30.58GJ/tonne biogs = 500

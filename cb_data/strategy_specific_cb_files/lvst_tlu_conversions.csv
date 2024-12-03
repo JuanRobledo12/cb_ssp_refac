@@ -1,0 +1,10 @@
+variable,TLU
+pop_lvst_buffalo,1
+pop_lvst_cattle_dairy,1
+pop_lvst_cattle_nondairy,1
+pop_lvst_chickens,0.013
+pop_lvst_goats,0.13
+pop_lvst_horses,1.1
+pop_lvst_mules,0.5
+pop_lvst_pigs,0.2
+pop_lvst_sheep,0.13

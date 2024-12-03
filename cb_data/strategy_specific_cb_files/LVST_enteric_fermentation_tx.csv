@@ -1,0 +1,10 @@
+variable,application,decrease_per_head
+pop_lvst_buffalo,0.8,0.25
+pop_lvst_cattle_dairy,0.8,0.25
+pop_lvst_cattle_nondairy,0.8,0.25
+pop_lvst_chickens,0,0
+pop_lvst_goats,0.8,0.35
+pop_lvst_horses,0,0
+pop_lvst_mules,0,0
+pop_lvst_pigs,0,0
+pop_lvst_sheep,0.8,0.35

@@ -1,8 +1,0 @@
-difference_variable,multiplier,multiplier unit,annual change,output_variable_name,output_display_name,sum,natural multiplier units,display_notes,internal_notes
-qty_trww_p_removed_tonne,51000,$/ton,1,cb:trww:water_pollution:wastewater_treatment:P,Avoided pollution cost (P in wastewater),0,$51/kg P,"Several studies (Herna_ndez-Sancho et al. (2010, 2015) and Antalov‡ and Halu__ (2020)) calculate the value of BOD, COD, N, and P removed from wastewater effluent. We use average values and adjust to LAC in 2019.",none
-qty_trww_n_removed_tonne,20000,$/ton,1,cb:trww:water_pollution:wastewater_treatment:N,Avoided pollution cost (N in wastewater),0,$20/kg N,"Several studies (Herna_ndez-Sancho et al. (2010, 2015) and Antalov‡ and Halu__ (2020)) calculate the value of BOD, COD, N, and P removed from wastewater effluent. We use average values and adjust to LAC in 2019.",none
-qty_trww_cod_removed_*,130,$/ton,1,cb:trww:water_pollution:wastewater_treatment:COD,Avoided pollution cost (COD in wastewater),1,$0.13/kg COD,"Several studies (Herna_ndez-Sancho et al. (2010, 2015) and Antalov‡ and Halu__ (2020)) calculate the value of BOD, COD, N, and P removed from wastewater effluent. We use average values and adjust to LAC in 2019.",none
-qty_trww_bod_removed_*,60,$/ton,1,cb:trww:water_pollution:wastewater_treatment:BOD,Avoided pollution cost (BOD in wastewater),1,$0.06/kg BOD,"Several studies (Herna_ndez-Sancho et al. (2010, 2015) and Antalov‡ and Halu__ (2020)) calculate the value of BOD, COD, N, and P removed from wastewater effluent. We use average values and adjust to LAC in 2019.",none
-
-
-

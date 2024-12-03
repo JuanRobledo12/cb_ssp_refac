@@ -1,0 +1,6 @@
+difference_variable,multiplier,multiplier unit,annual change,output_variable_name,output_display_name,sum,natural multiplier units,display_notes,internal_notes
+totalvalue_enfu_fuel_consumed_ccsq_*,-500000,N/A,1,cb:ccsq:sector_specific:fuel_cost:X,Fuel Cost (CCS),1,Bias corrected to be half of what they currently show,Costs of electricity and fuels are exogenously determined,none
+totalvalue_enfu_fuel_consumed_inen_*,-500000,N/A,1,cb:inen:sector_specific:fuel_cost:X,Fuel Cost (Industrial Energy),1,Bias corrected to be half of what they currently show,Costs of electricity and fuels are exogenously determined,none
+totalvalue_enfu_fuel_consumed_scoe_*,-500000,N/A,1,cb:scoe:sector_specific:fuel_cost:X,Fuel Cost (Buildings),1,Bias corrected to be half of what they currently show,Costs of electricity and fuels are exogenously determined,none
+totalvalue_enfu_fuel_consumed_entc_*,-500000,N/A,1,cb:entc:sector_specific:fuel_cost:X,Fuel Cost (Energy Production),1,Bias corrected to be half of what they currently show,Costs of electricity and fuels are exogenously determined,none
+totalvalue_enfu_fuel_consumed_trns_*,-500000,N/A,1,cb:trns:sector_specific:fuel_cost:X,Fuel Cost (Transport),1,Bias corrected to be half of what they currently show,Costs of electricity and fuels are exogenously determined,none

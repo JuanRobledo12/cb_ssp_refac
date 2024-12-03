@@ -1,2 +1,0 @@
-difference_variable,multiplier,multiplier unit,annual change,output_variable_name,output_display_name,sum,natural multiplier units,display_notes,internal_notes
-totalvalue_enfu_fuel_consumed_*_fuel_*,-500000,,1,cb:enfu:fuel_cost:X:X,Fuel Cost bio fuel_biogas,0,Bias corrected to be half of what they currently show,Costs of electricity and fuels are endogenously calcuated in NemoMod,none

@@ -1,2 +1,0 @@
-difference_variable,multiplier,multiplier unit,annual change,output_variable_name,output_display_name,sum,natural multiplier units,display_notes,internal_notes
-qty_waso_open_dump_*,-115,$/ton,1,cb:waso:env_pollution:open_dumping:X,Avoided cost of waste pollution (open dumping),1,$115/ton of waste dumped,"Wilson et al. (2015) suggest a conservative cost of $20-50/capita/year from unmanaged waste, and describe average waste of 220kg/cap/year among the poorest. We calculate costs assuming $20/capita and 0.22 ton/capita, adjusted from 2015 to 2019 dollars.",

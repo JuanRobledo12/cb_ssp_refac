@@ -1,0 +1,6 @@
+country_id: "iran"
+attr_primary_file_name: "ATTRIBUTE_PRIMARY_new.csv"
+attr_strategy_file_name: "ATTRIBUTE_STRATEGY_new.csv"
+ssp_output_data_file_name: "ssp_output_data.csv"
+comparison_strategy_code: "BASE"
+transformation_names_url: "https://github.com/jcsyme/sisepuede/blob/main/sisepuede/attributes/attribute_transformer_code.csv"

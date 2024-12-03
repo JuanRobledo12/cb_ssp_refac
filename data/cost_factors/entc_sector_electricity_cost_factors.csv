@@ -1,5 +1,0 @@
-difference_variable,multiplier,multiplier unit,annual change,output_variable_name,output_display_name,sum,natural multiplier units,display_notes,internal_notes
-cost_of_electricity_for_ccsq,-1000000,N/A,1,cb:ccsq:sector_specific:electricity_cost:X,Fuel Cost (CCS),1,,Costs of electricity and fuels are endogenously calcuated in NemoMod and allocated proportionally to the sector,none
-cost_of_electricity_for_inen,-1000000,N/A,1,cb:inen:sector_specific:electricity_cost:X,Fuel Cost (Industrial Energy),1,,Costs of electricity and fuels are endogenously calcuated in NemoMod and allocated proportionally to the sector,none
-cost_of_electricity_for_scoe,-1000000,N/A,1,cb:scoe:sector_specific:electricity_cost:X,Fuel Cost (Buildings),1,,Costs of electricity and fuels are endogenously calcuated in NemoMod and allocated proportionally to the sector,none
-cost_of_electricity_for_trns,-1000000,N/A,1,cb:trns:sector_specific:electricity_cost:X,Fuel Cost (Transport),1,,Costs of electricity and fuels are endogenously calcuated in NemoMod and allocated proportionally to the sector,none

@@ -4,7 +4,7 @@
 #source('cb_strategy_specific_functions.R')
 #source('general_ssp_utilities.R')
 
-from general_ssp_utilities import *
+from utils.general_utils import *
 from cb_config import *
 from cb_utilities import cb_calculate_system_costs, cb_calculate_transformation_costs,cb_process_interactions
 from data_reader import CBFilesReader

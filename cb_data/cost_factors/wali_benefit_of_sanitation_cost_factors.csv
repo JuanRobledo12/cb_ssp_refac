@@ -1,0 +1,10 @@
+difference_variable,multiplier,multiplier unit,annual change,output_variable_name,output_display_name,sum,natural multiplier units,display_notes,internal_notes
+pop_safelymanaged_*,200,$/capita,1,cb:wali:human_health:safe_sanitation:X,Sanitation benefit of safely managed sanitation,1,$200/capita,"The per capita benefits were calculated by dividing the total annual benefit of transitioning from unimproved to improved sanitation in LAC (Table 9) by the total population receiving improved sanitation interventions in LAC (Table 1) in Hutton (2012), adjusted from 2010 to 2019 dollars. The sanitation ladder in Hutton (2012) calculates the benefits of moving from unimproved to improved sanitation as defined above, but where the latter term could be extended to include (i.e., safely managed) sanitation options of septic tanks and sewerage with wastewater treatment without affecting the value of benefits. We therefore assume that the benefits roughly apply to transitions from unimproved to safely managed sanitation and improved to safely managed sanitation.",
+
+
+
+
+
+
+
+
